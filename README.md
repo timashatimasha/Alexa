@@ -1,4 +1,4 @@
-#### HOW TO DEPLOY ?? [` CLICK HERE TO WATCH TUTORIAL ✨`](https://youtu.be/ZJQ50wYh7dc) 
+
 #### NEW UPDATED VERSION COMING SOON 🙂🎈
 
 
@@ -48,13 +48,6 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ```
 https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 ```
-
-### `FOR TERMUX`
-
-* Yeah , It's now available for termux
-* First fork this repo and change session in <a href="https://github.com/pepesir/Bosco/blob/master/Denis.json">Denis.json</a> ,Then follow these commands ✅
-* NOTE : U HAVE TO CLONE YOUR FORKED REPO , NOT MINE REPO !!
-
 
 
 ```
